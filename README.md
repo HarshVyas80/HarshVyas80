@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshVyas80
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning Java Full Stack Development
-- 💞️ I’m looking to collaborate on All Types of Project by using a Language Html, Css, Javascript, React.js, Node.js, Java, Rest, C, C++
+- 💞️ I’m looking to collaborate on All Types of Project by using a Language Html, Css, Javascript, React.js, Java, Rest, C, C++
 - 📫 How to reach me hasuvyas67@gmail.com
 - 😄 Pronouns: Harsh
 
